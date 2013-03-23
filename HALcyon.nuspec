@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>HALcyon</id>
+    <version>1.0.0-alpha</version>
+    <authors>devinrader</authors>
+    <owners>devinrader</owners>
+    <licenseUrl>https://github.com/devinrader/HALcyon/blob/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/devinrader/halcyon</projectUrl>
+    <description>A MediaType formatter for WebAPI that formats output according to the Hypertext Application Language (HAL) specification: http://tools.ietf.org/html/draft-kelly-json-hal</description>
+    <tags>HAL WebAPI ASP.NET MediaType</tags>
+    <dependencies></dependencies>
+  </metadata>
+</package>
