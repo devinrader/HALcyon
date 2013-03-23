@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HALcyon", "HALcyon\HALcyon.csproj", "{C44E7D8C-A2E6-44FA-B50F-7C9D76EBB70B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HALcyon.Tests", "HALcyon.Tests\HALcyon.Tests.csproj", "{3C584CB7-2774-418E-B84D-8324EADC720C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C44E7D8C-A2E6-44FA-B50F-7C9D76EBB70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C44E7D8C-A2E6-44FA-B50F-7C9D76EBB70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C44E7D8C-A2E6-44FA-B50F-7C9D76EBB70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C44E7D8C-A2E6-44FA-B50F-7C9D76EBB70B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C584CB7-2774-418E-B84D-8324EADC720C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C584CB7-2774-418E-B84D-8324EADC720C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C584CB7-2774-418E-B84D-8324EADC720C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C584CB7-2774-418E-B84D-8324EADC720C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
